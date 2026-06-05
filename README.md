@@ -133,25 +133,6 @@ http://localhost:5173
 
 ---
 
-## Environment Variables
-
-### Backend
-
-Create `.env`
-
-```env
-DATABASE_URL=your_postgresql_connection_string
-```
-
-### Frontend
-
-Create `.env`
-
-```env
-VITE_API_BASE_URL=https://inventory-backend-fot7.onrender.com
-```
-
----
 
 ## API Endpoints
 
